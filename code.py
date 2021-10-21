@@ -17,7 +17,7 @@ def encrypt(text,s):
     return result
  
 #check the above function
-text = "ATTACKATONCE"
+text = "ATTACKATONCEASDVG"
 s = 4
 print "Text  : " + text
 print "Shift : " + str(s)
